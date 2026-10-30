@@ -1,0 +1,2380 @@
+[
+  {
+    "name": "Jaljeera",
+    "cost": 15,
+    "course": "Welcome drink",
+    "regions": [
+      "Pan-Indian"
+    ],
+    "occasions": [
+      "All"
+    ],
+    "diet": "v",
+    "ingredients": [
+      "cumin",
+      "mint",
+      "tamarind",
+      "lemon"
+    ]
+  },
+  {
+    "name": "Masala Chaas",
+    "cost": 15,
+    "course": "Welcome drink",
+    "regions": [
+      "Gujarati",
+      "Pan-Indian"
+    ],
+    "occasions": [
+      "All"
+    ],
+    "diet": "v",
+    "ingredients": [
+      "buttermilk",
+      "cumin",
+      "coriander",
+      "mint"
+    ]
+  },
+  {
+    "name": "Aam Panna",
+    "cost": 25,
+    "course": "Welcome drink",
+    "regions": [
+      "Pan-Indian"
+    ],
+    "occasions": [
+      "Housewarming",
+      "Birthday",
+      "Puja"
+    ],
+    "diet": "v",
+    "ingredients": [
+      "raw mango",
+      "mint",
+      "cumin"
+    ]
+  },
+  {
+    "name": "Badam Milk",
+    "cost": 50,
+    "course": "Welcome drink",
+    "regions": [
+      "Pan-Indian"
+    ],
+    "occasions": [
+      "Eid",
+      "Wedding",
+      "Diwali"
+    ],
+    "diet": "v",
+    "ingredients": [
+      "milk",
+      "almond",
+      "saffron"
+    ]
+  },
+  {
+    "name": "Rose Sharbat",
+    "cost": 20,
+    "course": "Welcome drink",
+    "regions": [
+      "Hyderabadi",
+      "North Indian"
+    ],
+    "occasions": [
+      "Eid",
+      "Wedding"
+    ],
+    "diet": "v",
+    "ingredients": [
+      "rose syrup",
+      "basil seeds",
+      "water"
+    ]
+  },
+  {
+    "name": "Thandai",
+    "cost": 50,
+    "course": "Welcome drink",
+    "regions": [
+      "North Indian",
+      "Punjabi"
+    ],
+    "occasions": [
+      "Diwali",
+      "Wedding"
+    ],
+    "diet": "v",
+    "ingredients": [
+      "milk",
+      "almond",
+      "fennel",
+      "saffron"
+    ]
+  },
+  {
+    "name": "Filter Coffee",
+    "cost": 25,
+    "course": "Welcome drink",
+    "regions": [
+      "South Indian"
+    ],
+    "occasions": [
+      "All"
+    ],
+    "diet": "v",
+    "ingredients": [
+      "coffee",
+      "milk"
+    ]
+  },
+  {
+    "name": "Sol Kadhi",
+    "cost": 30,
+    "course": "Welcome drink",
+    "regions": [
+      "Maharashtrian"
+    ],
+    "occasions": [
+      "Housewarming",
+      "Wedding"
+    ],
+    "diet": "v",
+    "ingredients": [
+      "coconut milk",
+      "kokum"
+    ]
+  },
+  {
+    "name": "Coconut Water",
+    "cost": 60,
+    "course": "Welcome drink",
+    "regions": [
+      "South Indian",
+      "Pan-Indian"
+    ],
+    "occasions": [
+      "Navratri",
+      "Puja"
+    ],
+    "diet": "v",
+    "ingredients": [
+      "tender coconut"
+    ]
+  },
+  {
+    "name": "Paneer Tikka",
+    "cost": 100,
+    "course": "Starter",
+    "regions": [
+      "North Indian",
+      "Punjabi"
+    ],
+    "occasions": [
+      "Wedding",
+      "Birthday",
+      "Diwali",
+      "Housewarming"
+    ],
+    "diet": "v",
+    "ingredients": [
+      "paneer",
+      "yogurt",
+      "bell pepper",
+      "spices"
+    ]
+  },
+  {
+    "name": "Hara Bhara Kebab",
+    "cost": 55,
+    "course": "Starter",
+    "regions": [
+      "North Indian",
+      "Punjabi"
+    ],
+    "occasions": [
+      "Wedding",
+      "Birthday",
+      "Diwali"
+    ],
+    "diet": "v",
+    "ingredients": [
+      "spinach",
+      "peas",
+      "potato",
+      "paneer"
+    ]
+  },
+  {
+    "name": "Dahi ke Kebab",
+    "cost": 60,
+    "course": "Starter",
+    "regions": [
+      "Hyderabadi",
+      "North Indian"
+    ],
+    "occasions": [
+      "Eid",
+      "Wedding"
+    ],
+    "diet": "v",
+    "ingredients": [
+      "hung curd",
+      "gram flour",
+      "spices"
+    ]
+  },
+  {
+    "name": "Aloo Tikki",
+    "cost": 35,
+    "course": "Starter",
+    "regions": [
+      "North Indian",
+      "Punjabi"
+    ],
+    "occasions": [
+      "Diwali",
+      "Birthday"
+    ],
+    "diet": "v",
+    "ingredients": [
+      "potato",
+      "peas",
+      "spices"
+    ]
+  },
+  {
+    "name": "Samosa",
+    "cost": 35,
+    "course": "Starter",
+    "regions": [
+      "Pan-Indian"
+    ],
+    "occasions": [
+      "Diwali",
+      "Birthday",
+      "Housewarming"
+    ],
+    "diet": "v",
+    "ingredients": [
+      "potato",
+      "peas",
+      "maida",
+      "spices"
+    ]
+  },
+  {
+    "name": "Dhokla",
+    "cost": 35,
+    "course": "Starter",
+    "regions": [
+      "Gujarati"
+    ],
+    "occasions": [
+      "All"
+    ],
+    "diet": "v",
+    "ingredients": [
+      "gram flour",
+      "yogurt",
+      "mustard seeds",
+      "curry leaf"
+    ]
+  },
+  {
+    "name": "Khandvi",
+    "cost": 40,
+    "course": "Starter",
+    "regions": [
+      "Gujarati",
+      "Maharashtrian"
+    ],
+    "occasions": [
+      "All"
+    ],
+    "diet": "v",
+    "ingredients": [
+      "gram flour",
+      "yogurt",
+      "sesame",
+      "mustard seeds"
+    ]
+  },
+  {
+    "name": "Kothimbir Vadi",
+    "cost": 40,
+    "course": "Starter",
+    "regions": [
+      "Maharashtrian"
+    ],
+    "occasions": [
+      "Housewarming",
+      "Diwali",
+      "Puja"
+    ],
+    "diet": "v",
+    "ingredients": [
+      "coriander",
+      "gram flour",
+      "sesame"
+    ]
+  },
+  {
+    "name": "Medu Vada",
+    "cost": 35,
+    "course": "Starter",
+    "regions": [
+      "South Indian"
+    ],
+    "occasions": [
+      "Puja",
+      "Housewarming",
+      "Wedding"
+    ],
+    "diet": "v",
+    "ingredients": [
+      "urad dal",
+      "curry leaf",
+      "pepper"
+    ]
+  },
+  {
+    "name": "Begun Bhaja",
+    "cost": 35,
+    "course": "Starter",
+    "regions": [
+      "Bengali"
+    ],
+    "occasions": [
+      "Wedding",
+      "Puja",
+      "Housewarming"
+    ],
+    "diet": "v",
+    "ingredients": [
+      "eggplant",
+      "turmeric",
+      "mustard oil"
+    ]
+  },
+  {
+    "name": "Sabudana Vada",
+    "cost": 40,
+    "course": "Starter",
+    "regions": [
+      "Maharashtrian",
+      "Pan-Indian"
+    ],
+    "occasions": [
+      "Navratri",
+      "Puja"
+    ],
+    "diet": "v",
+    "ingredients": [
+      "tapioca",
+      "peanut",
+      "potato",
+      "rock salt"
+    ]
+  },
+  {
+    "name": "Kuttu Pakora",
+    "cost": 45,
+    "course": "Starter",
+    "regions": [
+      "North Indian",
+      "Pan-Indian"
+    ],
+    "occasions": [
+      "Navratri"
+    ],
+    "diet": "v",
+    "ingredients": [
+      "buckwheat flour",
+      "potato",
+      "rock salt"
+    ]
+  },
+  {
+    "name": "Fruit Chaat",
+    "cost": 60,
+    "course": "Starter",
+    "regions": [
+      "Pan-Indian"
+    ],
+    "occasions": [
+      "Navratri",
+      "Puja",
+      "Birthday"
+    ],
+    "diet": "v",
+    "ingredients": [
+      "mixed fruit",
+      "rock salt",
+      "lemon"
+    ]
+  },
+  {
+    "name": "Veg Manchurian",
+    "cost": 65,
+    "course": "Starter",
+    "regions": [
+      "Pan-Indian"
+    ],
+    "occasions": [
+      "Birthday",
+      "Wedding"
+    ],
+    "diet": "v",
+    "ingredients": [
+      "cabbage",
+      "carrot",
+      "soy sauce",
+      "garlic",
+      "ginger"
+    ]
+  },
+  {
+    "name": "Paneer Chilli",
+    "cost": 110,
+    "course": "Starter",
+    "regions": [
+      "Pan-Indian"
+    ],
+    "occasions": [
+      "Birthday",
+      "Wedding"
+    ],
+    "diet": "v",
+    "ingredients": [
+      "paneer",
+      "bell pepper",
+      "soy sauce",
+      "onion",
+      "garlic"
+    ]
+  },
+  {
+    "name": "Pani Puri Counter",
+    "cost": 40,
+    "course": "Chaat",
+    "regions": [
+      "Pan-Indian"
+    ],
+    "occasions": [
+      "Birthday",
+      "Wedding",
+      "Diwali"
+    ],
+    "diet": "v",
+    "ingredients": [
+      "semolina",
+      "potato",
+      "chickpea",
+      "tamarind",
+      "mint"
+    ]
+  },
+  {
+    "name": "Chicken Tikka",
+    "cost": 130,
+    "course": "Starter",
+    "regions": [
+      "North Indian",
+      "Punjabi"
+    ],
+    "occasions": [
+      "Wedding",
+      "Birthday",
+      "Diwali",
+      "Christmas",
+      "Eid"
+    ],
+    "diet": "n",
+    "ingredients": [
+      "chicken",
+      "yogurt",
+      "spices",
+      "garlic",
+      "ginger"
+    ]
+  },
+  {
+    "name": "Mutton Seekh Kebab",
+    "cost": 220,
+    "course": "Starter",
+    "regions": [
+      "North Indian",
+      "Hyderabadi"
+    ],
+    "occasions": [
+      "Eid",
+      "Wedding"
+    ],
+    "diet": "n",
+    "ingredients": [
+      "mutton",
+      "onion",
+      "spices",
+      "ginger",
+      "garlic"
+    ]
+  },
+  {
+    "name": "Shami Kebab",
+    "cost": 180,
+    "course": "Starter",
+    "regions": [
+      "Hyderabadi",
+      "North Indian"
+    ],
+    "occasions": [
+      "Eid",
+      "Wedding"
+    ],
+    "diet": "n",
+    "ingredients": [
+      "mutton",
+      "chickpea",
+      "onion",
+      "spices"
+    ]
+  },
+  {
+    "name": "Chicken 65",
+    "cost": 130,
+    "course": "Starter",
+    "regions": [
+      "South Indian",
+      "Hyderabadi"
+    ],
+    "occasions": [
+      "Wedding",
+      "Birthday",
+      "Christmas"
+    ],
+    "diet": "n",
+    "ingredients": [
+      "chicken",
+      "curry leaf",
+      "chili",
+      "garlic",
+      "ginger"
+    ]
+  },
+  {
+    "name": "Amritsari Fish Fry",
+    "cost": 150,
+    "course": "Starter",
+    "regions": [
+      "Punjabi"
+    ],
+    "occasions": [
+      "Wedding",
+      "Diwali"
+    ],
+    "diet": "n",
+    "ingredients": [
+      "fish",
+      "gram flour",
+      "ajwain",
+      "garlic",
+      "ginger"
+    ]
+  },
+  {
+    "name": "Bengali Fish Fry",
+    "cost": 160,
+    "course": "Starter",
+    "regions": [
+      "Bengali"
+    ],
+    "occasions": [
+      "Wedding",
+      "Diwali",
+      "Birthday"
+    ],
+    "diet": "n",
+    "ingredients": [
+      "fish",
+      "breadcrumbs",
+      "mustard",
+      "onion"
+    ]
+  },
+  {
+    "name": "Prawn Koliwada",
+    "cost": 220,
+    "course": "Starter",
+    "regions": [
+      "Maharashtrian"
+    ],
+    "occasions": [
+      "Wedding",
+      "Birthday"
+    ],
+    "diet": "n",
+    "ingredients": [
+      "prawn",
+      "gram flour",
+      "ajwain",
+      "garlic"
+    ]
+  },
+  {
+    "name": "Shahi Paneer",
+    "cost": 130,
+    "course": "Main course",
+    "regions": [
+      "North Indian",
+      "Punjabi"
+    ],
+    "occasions": [
+      "Wedding",
+      "Puja",
+      "Diwali",
+      "Eid"
+    ],
+    "diet": "v",
+    "ingredients": [
+      "paneer",
+      "cashew",
+      "tomato",
+      "cream",
+      "saffron"
+    ]
+  },
+  {
+    "name": "Paneer Butter Masala",
+    "cost": 120,
+    "course": "Main course",
+    "regions": [
+      "North Indian",
+      "Punjabi"
+    ],
+    "occasions": [
+      "Wedding",
+      "Birthday",
+      "Diwali"
+    ],
+    "diet": "v",
+    "ingredients": [
+      "paneer",
+      "tomato",
+      "butter",
+      "cream",
+      "cashew",
+      "garlic"
+    ]
+  },
+  {
+    "name": "Dal Makhani",
+    "cost": 80,
+    "course": "Main course",
+    "regions": [
+      "North Indian",
+      "Punjabi"
+    ],
+    "occasions": [
+      "Wedding",
+      "Diwali",
+      "Birthday"
+    ],
+    "diet": "v",
+    "ingredients": [
+      "black lentil",
+      "kidney bean",
+      "butter",
+      "cream",
+      "tomato",
+      "garlic",
+      "ginger"
+    ]
+  },
+  {
+    "name": "Dal Tadka",
+    "cost": 45,
+    "course": "Main course",
+    "regions": [
+      "Pan-Indian"
+    ],
+    "occasions": [
+      "All"
+    ],
+    "diet": "v",
+    "ingredients": [
+      "toor dal",
+      "ghee",
+      "cumin",
+      "tomato",
+      "garlic"
+    ]
+  },
+  {
+    "name": "Sattvic Moong Dal",
+    "cost": 45,
+    "course": "Main course",
+    "regions": [
+      "Pan-Indian"
+    ],
+    "occasions": [
+      "Puja",
+      "Housewarming"
+    ],
+    "diet": "v",
+    "ingredients": [
+      "moong dal",
+      "ghee",
+      "cumin",
+      "asafoetida",
+      "turmeric"
+    ]
+  },
+  {
+    "name": "Chole",
+    "cost": 55,
+    "course": "Main course",
+    "regions": [
+      "Punjabi",
+      "North Indian"
+    ],
+    "occasions": [
+      "Birthday",
+      "Diwali",
+      "Wedding"
+    ],
+    "diet": "v",
+    "ingredients": [
+      "chickpea",
+      "onion",
+      "tomato",
+      "ginger",
+      "garlic"
+    ]
+  },
+  {
+    "name": "Palak Paneer",
+    "cost": 110,
+    "course": "Main course",
+    "regions": [
+      "Punjabi",
+      "North Indian"
+    ],
+    "occasions": [
+      "Birthday",
+      "Wedding",
+      "Housewarming"
+    ],
+    "diet": "v",
+    "ingredients": [
+      "spinach",
+      "paneer",
+      "garlic",
+      "cream",
+      "tomato"
+    ]
+  },
+  {
+    "name": "Malai Kofta",
+    "cost": 120,
+    "course": "Main course",
+    "regions": [
+      "North Indian"
+    ],
+    "occasions": [
+      "Wedding",
+      "Diwali"
+    ],
+    "diet": "v",
+    "ingredients": [
+      "paneer",
+      "potato",
+      "cream",
+      "cashew",
+      "tomato",
+      "onion"
+    ]
+  },
+  {
+    "name": "Navratan Korma",
+    "cost": 115,
+    "course": "Main course",
+    "regions": [
+      "North Indian"
+    ],
+    "occasions": [
+      "Wedding",
+      "Diwali"
+    ],
+    "diet": "v",
+    "ingredients": [
+      "paneer",
+      "carrot",
+      "peas",
+      "cashew",
+      "cream"
+    ]
+  },
+  {
+    "name": "Kashmiri Dum Aloo",
+    "cost": 70,
+    "course": "Main course",
+    "regions": [
+      "North Indian"
+    ],
+    "occasions": [
+      "Diwali",
+      "Puja",
+      "Wedding",
+      "Navratri"
+    ],
+    "diet": "v",
+    "ingredients": [
+      "potato",
+      "yogurt",
+      "fennel",
+      "ginger"
+    ]
+  },
+  {
+    "name": "Sambar",
+    "cost": 40,
+    "course": "Main course",
+    "regions": [
+      "South Indian"
+    ],
+    "occasions": [
+      "Puja",
+      "Housewarming",
+      "Wedding"
+    ],
+    "diet": "v",
+    "ingredients": [
+      "toor dal",
+      "tamarind",
+      "drumstick",
+      "pumpkin",
+      "sambar powder"
+    ]
+  },
+  {
+    "name": "Pepper Rasam",
+    "cost": 25,
+    "course": "Main course",
+    "regions": [
+      "South Indian"
+    ],
+    "occasions": [
+      "All"
+    ],
+    "diet": "v",
+    "ingredients": [
+      "tamarind",
+      "pepper",
+      "cumin",
+      "tomato",
+      "curry leaf"
+    ]
+  },
+  {
+    "name": "Avial",
+    "cost": 60,
+    "course": "Main course",
+    "regions": [
+      "South Indian"
+    ],
+    "occasions": [
+      "Wedding",
+      "Puja",
+      "Housewarming"
+    ],
+    "diet": "v",
+    "ingredients": [
+      "raw banana",
+      "yam",
+      "coconut",
+      "yogurt",
+      "drumstick"
+    ]
+  },
+  {
+    "name": "Beans Poriyal",
+    "cost": 40,
+    "course": "Main course",
+    "regions": [
+      "South Indian"
+    ],
+    "occasions": [
+      "Wedding",
+      "Puja",
+      "Housewarming"
+    ],
+    "diet": "v",
+    "ingredients": [
+      "green beans",
+      "coconut",
+      "mustard seeds"
+    ]
+  },
+  {
+    "name": "Undhiyu",
+    "cost": 80,
+    "course": "Main course",
+    "regions": [
+      "Gujarati"
+    ],
+    "occasions": [
+      "Diwali",
+      "Wedding"
+    ],
+    "diet": "v",
+    "ingredients": [
+      "surti papdi",
+      "potato",
+      "sweet potato",
+      "raw banana",
+      "eggplant",
+      "fenugreek"
+    ]
+  },
+  {
+    "name": "Gujarati Kadhi",
+    "cost": 35,
+    "course": "Main course",
+    "regions": [
+      "Gujarati"
+    ],
+    "occasions": [
+      "All"
+    ],
+    "diet": "v",
+    "ingredients": [
+      "yogurt",
+      "gram flour",
+      "mustard seeds",
+      "curry leaf",
+      "sugar"
+    ]
+  },
+  {
+    "name": "Dal Dhokli",
+    "cost": 50,
+    "course": "Main course",
+    "regions": [
+      "Gujarati"
+    ],
+    "occasions": [
+      "Housewarming",
+      "Puja"
+    ],
+    "diet": "v",
+    "ingredients": [
+      "toor dal",
+      "wheat flour",
+      "peanut",
+      "jaggery"
+    ]
+  },
+  {
+    "name": "Sev Tamatar Sabzi",
+    "cost": 40,
+    "course": "Main course",
+    "regions": [
+      "Gujarati"
+    ],
+    "occasions": [
+      "Housewarming",
+      "Birthday"
+    ],
+    "diet": "v",
+    "ingredients": [
+      "sev",
+      "tomato",
+      "spices"
+    ]
+  },
+  {
+    "name": "Khichdi Kadhi",
+    "cost": 60,
+    "course": "Main course",
+    "regions": [
+      "Gujarati"
+    ],
+    "occasions": [
+      "Puja",
+      "Housewarming"
+    ],
+    "diet": "v",
+    "ingredients": [
+      "rice",
+      "moong dal",
+      "ghee",
+      "cumin"
+    ]
+  },
+  {
+    "name": "Aamti",
+    "cost": 35,
+    "course": "Main course",
+    "regions": [
+      "Maharashtrian"
+    ],
+    "occasions": [
+      "Puja",
+      "Housewarming"
+    ],
+    "diet": "v",
+    "ingredients": [
+      "toor dal",
+      "kokum",
+      "jaggery",
+      "goda masala"
+    ]
+  },
+  {
+    "name": "Varan Bhaat",
+    "cost": 55,
+    "course": "Main course",
+    "regions": [
+      "Maharashtrian"
+    ],
+    "occasions": [
+      "Puja",
+      "Wedding",
+      "Housewarming"
+    ],
+    "diet": "v",
+    "ingredients": [
+      "toor dal",
+      "rice",
+      "ghee",
+      "lemon"
+    ]
+  },
+  {
+    "name": "Pav Bhaji",
+    "cost": 70,
+    "course": "Main course",
+    "regions": [
+      "Maharashtrian"
+    ],
+    "occasions": [
+      "Birthday",
+      "Housewarming"
+    ],
+    "diet": "v",
+    "ingredients": [
+      "potato",
+      "cauliflower",
+      "peas",
+      "butter",
+      "onion",
+      "maida"
+    ]
+  },
+  {
+    "name": "Shukto",
+    "cost": 60,
+    "course": "Main course",
+    "regions": [
+      "Bengali"
+    ],
+    "occasions": [
+      "Wedding",
+      "Puja"
+    ],
+    "diet": "v",
+    "ingredients": [
+      "bitter gourd",
+      "raw banana",
+      "drumstick",
+      "milk",
+      "poppy seed"
+    ]
+  },
+  {
+    "name": "Cholar Dal",
+    "cost": 50,
+    "course": "Main course",
+    "regions": [
+      "Bengali"
+    ],
+    "occasions": [
+      "Wedding",
+      "Puja",
+      "Housewarming"
+    ],
+    "diet": "v",
+    "ingredients": [
+      "chana dal",
+      "coconut",
+      "ghee",
+      "cumin"
+    ]
+  },
+  {
+    "name": "Mirchi ka Salan",
+    "cost": 55,
+    "course": "Main course",
+    "regions": [
+      "Hyderabadi"
+    ],
+    "occasions": [
+      "Eid",
+      "Wedding"
+    ],
+    "diet": "v",
+    "ingredients": [
+      "green chili",
+      "peanut",
+      "sesame",
+      "tamarind",
+      "coconut"
+    ]
+  },
+  {
+    "name": "Baghara Baingan",
+    "cost": 55,
+    "course": "Main course",
+    "regions": [
+      "Hyderabadi"
+    ],
+    "occasions": [
+      "Eid",
+      "Wedding"
+    ],
+    "diet": "v",
+    "ingredients": [
+      "eggplant",
+      "peanut",
+      "sesame",
+      "tamarind"
+    ]
+  },
+  {
+    "name": "Sabudana Khichdi",
+    "cost": 55,
+    "course": "Main course",
+    "regions": [
+      "Maharashtrian",
+      "Pan-Indian"
+    ],
+    "occasions": [
+      "Navratri",
+      "Puja"
+    ],
+    "diet": "v",
+    "ingredients": [
+      "tapioca",
+      "peanut",
+      "potato",
+      "rock salt"
+    ]
+  },
+  {
+    "name": "Aloo Jeera",
+    "cost": 35,
+    "course": "Main course",
+    "regions": [
+      "North Indian",
+      "Pan-Indian"
+    ],
+    "occasions": [
+      "Navratri"
+    ],
+    "diet": "v",
+    "ingredients": [
+      "potato",
+      "cumin",
+      "rock salt"
+    ]
+  },
+  {
+    "name": "Samak Chawal Khichdi",
+    "cost": 65,
+    "course": "Main course",
+    "regions": [
+      "North Indian",
+      "Pan-Indian"
+    ],
+    "occasions": [
+      "Navratri"
+    ],
+    "diet": "v",
+    "ingredients": [
+      "barnyard millet",
+      "peanut",
+      "potato",
+      "rock salt"
+    ]
+  },
+  {
+    "name": "Butter Chicken",
+    "cost": 170,
+    "course": "Main course",
+    "regions": [
+      "North Indian",
+      "Punjabi"
+    ],
+    "occasions": [
+      "Wedding",
+      "Birthday",
+      "Diwali",
+      "Christmas"
+    ],
+    "diet": "n",
+    "ingredients": [
+      "chicken",
+      "tomato",
+      "butter",
+      "cream",
+      "garlic",
+      "ginger"
+    ]
+  },
+  {
+    "name": "Chicken Korma",
+    "cost": 170,
+    "course": "Main course",
+    "regions": [
+      "Hyderabadi",
+      "North Indian"
+    ],
+    "occasions": [
+      "Eid",
+      "Wedding"
+    ],
+    "diet": "n",
+    "ingredients": [
+      "chicken",
+      "yogurt",
+      "cashew",
+      "onion",
+      "ginger",
+      "garlic"
+    ]
+  },
+  {
+    "name": "Mutton Rogan Josh",
+    "cost": 300,
+    "course": "Main course",
+    "regions": [
+      "North Indian"
+    ],
+    "occasions": [
+      "Eid",
+      "Wedding",
+      "Diwali"
+    ],
+    "diet": "n",
+    "ingredients": [
+      "mutton",
+      "yogurt",
+      "kashmiri chili",
+      "onion",
+      "ginger",
+      "garlic"
+    ]
+  },
+  {
+    "name": "Nihari",
+    "cost": 300,
+    "course": "Main course",
+    "regions": [
+      "Hyderabadi",
+      "North Indian"
+    ],
+    "occasions": [
+      "Eid"
+    ],
+    "diet": "n",
+    "ingredients": [
+      "mutton",
+      "wheat flour",
+      "ginger",
+      "spices"
+    ]
+  },
+  {
+    "name": "Haleem",
+    "cost": 240,
+    "course": "Main course",
+    "regions": [
+      "Hyderabadi"
+    ],
+    "occasions": [
+      "Eid"
+    ],
+    "diet": "n",
+    "ingredients": [
+      "mutton",
+      "wheat",
+      "lentil",
+      "ghee",
+      "onion",
+      "ginger",
+      "garlic"
+    ]
+  },
+  {
+    "name": "Macher Jhol",
+    "cost": 140,
+    "course": "Main course",
+    "regions": [
+      "Bengali"
+    ],
+    "occasions": [
+      "All"
+    ],
+    "diet": "n",
+    "ingredients": [
+      "fish",
+      "potato",
+      "mustard oil",
+      "turmeric",
+      "ginger"
+    ]
+  },
+  {
+    "name": "Kosha Mangsho",
+    "cost": 300,
+    "course": "Main course",
+    "regions": [
+      "Bengali"
+    ],
+    "occasions": [
+      "Wedding",
+      "Diwali",
+      "Puja"
+    ],
+    "diet": "n",
+    "ingredients": [
+      "mutton",
+      "onion",
+      "ginger",
+      "garlic",
+      "yogurt"
+    ]
+  },
+  {
+    "name": "Chingri Malai Curry",
+    "cost": 260,
+    "course": "Main course",
+    "regions": [
+      "Bengali"
+    ],
+    "occasions": [
+      "Wedding",
+      "Diwali"
+    ],
+    "diet": "n",
+    "ingredients": [
+      "prawn",
+      "coconut milk",
+      "ginger",
+      "onion"
+    ]
+  },
+  {
+    "name": "Kerala Chicken Stew",
+    "cost": 160,
+    "course": "Main course",
+    "regions": [
+      "South Indian"
+    ],
+    "occasions": [
+      "Christmas"
+    ],
+    "diet": "n",
+    "ingredients": [
+      "chicken",
+      "coconut milk",
+      "potato",
+      "onion",
+      "ginger",
+      "garlic"
+    ]
+  },
+  {
+    "name": "Pork Vindaloo",
+    "cost": 180,
+    "course": "Main course",
+    "regions": [
+      "Pan-Indian"
+    ],
+    "occasions": [
+      "Christmas"
+    ],
+    "diet": "n",
+    "ingredients": [
+      "pork",
+      "vinegar",
+      "chili",
+      "garlic",
+      "ginger"
+    ]
+  },
+  {
+    "name": "Kerala Beef Fry",
+    "cost": 170,
+    "course": "Main course",
+    "regions": [
+      "South Indian"
+    ],
+    "occasions": [
+      "Christmas"
+    ],
+    "diet": "n",
+    "ingredients": [
+      "beef",
+      "coconut",
+      "curry leaf",
+      "ginger",
+      "garlic"
+    ]
+  },
+  {
+    "name": "Christmas Roast Chicken",
+    "cost": 180,
+    "course": "Main course",
+    "regions": [
+      "Pan-Indian"
+    ],
+    "occasions": [
+      "Christmas"
+    ],
+    "diet": "n",
+    "ingredients": [
+      "chicken",
+      "butter",
+      "herbs",
+      "garlic"
+    ]
+  },
+  {
+    "name": "Egg Curry",
+    "cost": 70,
+    "course": "Main course",
+    "regions": [
+      "Pan-Indian"
+    ],
+    "occasions": [
+      "Birthday",
+      "Housewarming"
+    ],
+    "diet": "e",
+    "ingredients": [
+      "egg",
+      "onion",
+      "tomato",
+      "garlic",
+      "ginger"
+    ]
+  },
+  {
+    "name": "Hyderabadi Chicken Dum Biryani",
+    "cost": 190,
+    "course": "Rice",
+    "regions": [
+      "Hyderabadi"
+    ],
+    "occasions": [
+      "Eid",
+      "Wedding",
+      "Birthday"
+    ],
+    "diet": "n",
+    "ingredients": [
+      "basmati rice",
+      "chicken",
+      "yogurt",
+      "saffron",
+      "onion",
+      "garlic",
+      "ginger"
+    ]
+  },
+  {
+    "name": "Hyderabadi Mutton Biryani",
+    "cost": 290,
+    "course": "Rice",
+    "regions": [
+      "Hyderabadi"
+    ],
+    "occasions": [
+      "Eid",
+      "Wedding"
+    ],
+    "diet": "n",
+    "ingredients": [
+      "basmati rice",
+      "mutton",
+      "yogurt",
+      "saffron",
+      "onion",
+      "garlic",
+      "ginger"
+    ]
+  },
+  {
+    "name": "Veg Dum Biryani",
+    "cost": 110,
+    "course": "Rice",
+    "regions": [
+      "Hyderabadi",
+      "Pan-Indian"
+    ],
+    "occasions": [
+      "Wedding",
+      "Birthday",
+      "Eid"
+    ],
+    "diet": "v",
+    "ingredients": [
+      "basmati rice",
+      "mixed vegetables",
+      "yogurt",
+      "saffron",
+      "mint",
+      "onion"
+    ]
+  },
+  {
+    "name": "Jeera Rice",
+    "cost": 35,
+    "course": "Rice",
+    "regions": [
+      "Pan-Indian"
+    ],
+    "occasions": [
+      "All"
+    ],
+    "diet": "v",
+    "ingredients": [
+      "basmati rice",
+      "cumin",
+      "ghee"
+    ]
+  },
+  {
+    "name": "Vegetable Pulao",
+    "cost": 50,
+    "course": "Rice",
+    "regions": [
+      "Pan-Indian"
+    ],
+    "occasions": [
+      "All"
+    ],
+    "diet": "v",
+    "ingredients": [
+      "basmati rice",
+      "peas",
+      "carrot",
+      "ghee",
+      "whole spices"
+    ]
+  },
+  {
+    "name": "Lemon Rice",
+    "cost": 40,
+    "course": "Rice",
+    "regions": [
+      "South Indian"
+    ],
+    "occasions": [
+      "Puja",
+      "Housewarming"
+    ],
+    "diet": "v",
+    "ingredients": [
+      "rice",
+      "lemon",
+      "peanut",
+      "curry leaf",
+      "mustard seeds"
+    ]
+  },
+  {
+    "name": "Curd Rice",
+    "cost": 40,
+    "course": "Rice",
+    "regions": [
+      "South Indian"
+    ],
+    "occasions": [
+      "All"
+    ],
+    "diet": "v",
+    "ingredients": [
+      "rice",
+      "yogurt",
+      "curry leaf",
+      "mustard seeds"
+    ]
+  },
+  {
+    "name": "Bisi Bele Bath",
+    "cost": 60,
+    "course": "Rice",
+    "regions": [
+      "South Indian"
+    ],
+    "occasions": [
+      "Puja",
+      "Housewarming",
+      "Wedding"
+    ],
+    "diet": "v",
+    "ingredients": [
+      "rice",
+      "toor dal",
+      "tamarind",
+      "ghee",
+      "vegetables"
+    ]
+  },
+  {
+    "name": "Masale Bhaat",
+    "cost": 50,
+    "course": "Rice",
+    "regions": [
+      "Maharashtrian"
+    ],
+    "occasions": [
+      "Wedding",
+      "Housewarming",
+      "Puja"
+    ],
+    "diet": "v",
+    "ingredients": [
+      "rice",
+      "goda masala",
+      "peas",
+      "coconut"
+    ]
+  },
+  {
+    "name": "Butter Naan",
+    "cost": 30,
+    "course": "Bread",
+    "regions": [
+      "North Indian",
+      "Punjabi",
+      "Hyderabadi"
+    ],
+    "occasions": [
+      "Wedding",
+      "Birthday",
+      "Eid",
+      "Diwali"
+    ],
+    "diet": "v",
+    "ingredients": [
+      "maida",
+      "yogurt",
+      "butter"
+    ]
+  },
+  {
+    "name": "Tandoori Roti",
+    "cost": 15,
+    "course": "Bread",
+    "regions": [
+      "North Indian",
+      "Punjabi"
+    ],
+    "occasions": [
+      "All"
+    ],
+    "diet": "v",
+    "ingredients": [
+      "wheat flour"
+    ]
+  },
+  {
+    "name": "Phulka",
+    "cost": 12,
+    "course": "Bread",
+    "regions": [
+      "Pan-Indian"
+    ],
+    "occasions": [
+      "All"
+    ],
+    "diet": "v",
+    "ingredients": [
+      "wheat flour",
+      "ghee"
+    ]
+  },
+  {
+    "name": "Puri",
+    "cost": 25,
+    "course": "Bread",
+    "regions": [
+      "Pan-Indian"
+    ],
+    "occasions": [
+      "Puja",
+      "Diwali",
+      "Wedding"
+    ],
+    "diet": "v",
+    "ingredients": [
+      "wheat flour",
+      "oil"
+    ]
+  },
+  {
+    "name": "Methi Thepla",
+    "cost": 25,
+    "course": "Bread",
+    "regions": [
+      "Gujarati"
+    ],
+    "occasions": [
+      "Housewarming",
+      "Diwali"
+    ],
+    "diet": "v",
+    "ingredients": [
+      "wheat flour",
+      "fenugreek",
+      "yogurt",
+      "sesame"
+    ]
+  },
+  {
+    "name": "Luchi",
+    "cost": 25,
+    "course": "Bread",
+    "regions": [
+      "Bengali"
+    ],
+    "occasions": [
+      "Puja",
+      "Wedding",
+      "Diwali"
+    ],
+    "diet": "v",
+    "ingredients": [
+      "maida",
+      "ghee"
+    ]
+  },
+  {
+    "name": "Appam",
+    "cost": 30,
+    "course": "Bread",
+    "regions": [
+      "South Indian"
+    ],
+    "occasions": [
+      "Christmas",
+      "Wedding"
+    ],
+    "diet": "v",
+    "ingredients": [
+      "rice",
+      "coconut"
+    ]
+  },
+  {
+    "name": "Kuttu Puri",
+    "cost": 40,
+    "course": "Bread",
+    "regions": [
+      "North Indian",
+      "Pan-Indian"
+    ],
+    "occasions": [
+      "Navratri"
+    ],
+    "diet": "v",
+    "ingredients": [
+      "buckwheat flour",
+      "potato",
+      "rock salt"
+    ]
+  },
+  {
+    "name": "Sheermal",
+    "cost": 40,
+    "course": "Bread",
+    "regions": [
+      "Hyderabadi",
+      "North Indian"
+    ],
+    "occasions": [
+      "Eid",
+      "Wedding"
+    ],
+    "diet": "v",
+    "ingredients": [
+      "maida",
+      "milk",
+      "saffron",
+      "ghee"
+    ]
+  },
+  {
+    "name": "Boondi Raita",
+    "cost": 25,
+    "course": "Accompaniment",
+    "regions": [
+      "Pan-Indian"
+    ],
+    "occasions": [
+      "All"
+    ],
+    "diet": "v",
+    "ingredients": [
+      "yogurt",
+      "gram flour",
+      "cumin"
+    ]
+  },
+  {
+    "name": "Cucumber Mint Raita",
+    "cost": 25,
+    "course": "Accompaniment",
+    "regions": [
+      "Pan-Indian"
+    ],
+    "occasions": [
+      "All"
+    ],
+    "diet": "v",
+    "ingredients": [
+      "cucumber",
+      "yogurt",
+      "mint",
+      "cumin"
+    ]
+  },
+  {
+    "name": "Papad & Pickle",
+    "cost": 15,
+    "course": "Accompaniment",
+    "regions": [
+      "Pan-Indian"
+    ],
+    "occasions": [
+      "All"
+    ],
+    "diet": "v",
+    "ingredients": [
+      "lentil papad",
+      "pickle"
+    ]
+  },
+  {
+    "name": "Gulab Jamun",
+    "cost": 35,
+    "course": "Dessert",
+    "regions": [
+      "Pan-Indian"
+    ],
+    "occasions": [
+      "Diwali",
+      "Wedding",
+      "Eid",
+      "Birthday",
+      "Puja"
+    ],
+    "diet": "v",
+    "ingredients": [
+      "khoya",
+      "flour",
+      "sugar",
+      "cardamom"
+    ]
+  },
+  {
+    "name": "Rasmalai",
+    "cost": 60,
+    "course": "Dessert",
+    "regions": [
+      "North Indian",
+      "Bengali"
+    ],
+    "occasions": [
+      "Wedding",
+      "Diwali",
+      "Eid"
+    ],
+    "diet": "v",
+    "ingredients": [
+      "chenna",
+      "milk",
+      "saffron",
+      "pistachio"
+    ]
+  },
+  {
+    "name": "Gajar Halwa",
+    "cost": 60,
+    "course": "Dessert",
+    "regions": [
+      "North Indian",
+      "Punjabi"
+    ],
+    "occasions": [
+      "Diwali",
+      "Wedding"
+    ],
+    "diet": "v",
+    "ingredients": [
+      "carrot",
+      "milk",
+      "ghee",
+      "sugar"
+    ]
+  },
+  {
+    "name": "Kaju Katli",
+    "cost": 80,
+    "course": "Dessert",
+    "regions": [
+      "Pan-Indian"
+    ],
+    "occasions": [
+      "Diwali",
+      "Puja"
+    ],
+    "diet": "v",
+    "ingredients": [
+      "cashew",
+      "sugar"
+    ]
+  },
+  {
+    "name": "Besan Ladoo",
+    "cost": 40,
+    "course": "Dessert",
+    "regions": [
+      "Pan-Indian"
+    ],
+    "occasions": [
+      "Diwali",
+      "Puja",
+      "Housewarming"
+    ],
+    "diet": "v",
+    "ingredients": [
+      "gram flour",
+      "ghee",
+      "sugar"
+    ]
+  },
+  {
+    "name": "Jalebi",
+    "cost": 35,
+    "course": "Dessert",
+    "regions": [
+      "Pan-Indian"
+    ],
+    "occasions": [
+      "Diwali",
+      "Wedding"
+    ],
+    "diet": "v",
+    "ingredients": [
+      "maida",
+      "sugar",
+      "saffron"
+    ]
+  },
+  {
+    "name": "Sooji Halwa (Prasad)",
+    "cost": 30,
+    "course": "Dessert",
+    "regions": [
+      "Pan-Indian"
+    ],
+    "occasions": [
+      "Puja"
+    ],
+    "diet": "v",
+    "ingredients": [
+      "semolina",
+      "ghee",
+      "sugar",
+      "banana",
+      "cardamom"
+    ]
+  },
+  {
+    "name": "Shrikhand",
+    "cost": 50,
+    "course": "Dessert",
+    "regions": [
+      "Gujarati",
+      "Maharashtrian"
+    ],
+    "occasions": [
+      "Diwali",
+      "Housewarming",
+      "Puja",
+      "Wedding"
+    ],
+    "diet": "v",
+    "ingredients": [
+      "hung curd",
+      "sugar",
+      "saffron",
+      "cardamom"
+    ]
+  },
+  {
+    "name": "Mohanthal",
+    "cost": 50,
+    "course": "Dessert",
+    "regions": [
+      "Gujarati"
+    ],
+    "occasions": [
+      "Diwali",
+      "Wedding"
+    ],
+    "diet": "v",
+    "ingredients": [
+      "gram flour",
+      "ghee",
+      "sugar"
+    ]
+  },
+  {
+    "name": "Puran Poli",
+    "cost": 45,
+    "course": "Dessert",
+    "regions": [
+      "Maharashtrian"
+    ],
+    "occasions": [
+      "Diwali",
+      "Puja",
+      "Wedding"
+    ],
+    "diet": "v",
+    "ingredients": [
+      "chana dal",
+      "jaggery",
+      "wheat flour",
+      "ghee"
+    ]
+  },
+  {
+    "name": "Mishti Doi",
+    "cost": 35,
+    "course": "Dessert",
+    "regions": [
+      "Bengali"
+    ],
+    "occasions": [
+      "All"
+    ],
+    "diet": "v",
+    "ingredients": [
+      "milk",
+      "jaggery",
+      "yogurt"
+    ]
+  },
+  {
+    "name": "Sandesh",
+    "cost": 45,
+    "course": "Dessert",
+    "regions": [
+      "Bengali"
+    ],
+    "occasions": [
+      "Puja",
+      "Wedding",
+      "Diwali"
+    ],
+    "diet": "v",
+    "ingredients": [
+      "chenna",
+      "sugar",
+      "cardamom"
+    ]
+  },
+  {
+    "name": "Payesh",
+    "cost": 40,
+    "course": "Dessert",
+    "regions": [
+      "Bengali"
+    ],
+    "occasions": [
+      "Puja",
+      "Birthday",
+      "Wedding"
+    ],
+    "diet": "v",
+    "ingredients": [
+      "rice",
+      "milk",
+      "jaggery",
+      "cardamom"
+    ]
+  },
+  {
+    "name": "Payasam",
+    "cost": 45,
+    "course": "Dessert",
+    "regions": [
+      "South Indian"
+    ],
+    "occasions": [
+      "Puja",
+      "Wedding",
+      "Housewarming"
+    ],
+    "diet": "v",
+    "ingredients": [
+      "vermicelli",
+      "milk",
+      "jaggery",
+      "cardamom"
+    ]
+  },
+  {
+    "name": "Sheer Khurma",
+    "cost": 65,
+    "course": "Dessert",
+    "regions": [
+      "Hyderabadi",
+      "North Indian"
+    ],
+    "occasions": [
+      "Eid"
+    ],
+    "diet": "v",
+    "ingredients": [
+      "vermicelli",
+      "milk",
+      "dates",
+      "nuts"
+    ]
+  },
+  {
+    "name": "Double ka Meetha",
+    "cost": 65,
+    "course": "Dessert",
+    "regions": [
+      "Hyderabadi"
+    ],
+    "occasions": [
+      "Eid",
+      "Wedding"
+    ],
+    "diet": "v",
+    "ingredients": [
+      "bread",
+      "milk",
+      "saffron",
+      "nuts",
+      "ghee"
+    ]
+  },
+  {
+    "name": "Khubani ka Meetha",
+    "cost": 80,
+    "course": "Dessert",
+    "regions": [
+      "Hyderabadi"
+    ],
+    "occasions": [
+      "Eid",
+      "Wedding"
+    ],
+    "diet": "v",
+    "ingredients": [
+      "dried apricot",
+      "cream",
+      "almond"
+    ]
+  },
+  {
+    "name": "Sabudana Kheer",
+    "cost": 40,
+    "course": "Dessert",
+    "regions": [
+      "Pan-Indian"
+    ],
+    "occasions": [
+      "Navratri"
+    ],
+    "diet": "v",
+    "ingredients": [
+      "tapioca",
+      "milk",
+      "sugar"
+    ]
+  },
+  {
+    "name": "Makhana Kheer",
+    "cost": 60,
+    "course": "Dessert",
+    "regions": [
+      "Pan-Indian"
+    ],
+    "occasions": [
+      "Navratri",
+      "Puja"
+    ],
+    "diet": "v",
+    "ingredients": [
+      "fox nut",
+      "milk",
+      "sugar"
+    ]
+  },
+  {
+    "name": "Singhare ka Halwa",
+    "cost": 50,
+    "course": "Dessert",
+    "regions": [
+      "North Indian",
+      "Pan-Indian"
+    ],
+    "occasions": [
+      "Navratri"
+    ],
+    "diet": "v",
+    "ingredients": [
+      "water chestnut flour",
+      "ghee",
+      "sugar"
+    ]
+  },
+  {
+    "name": "Plum Cake",
+    "cost": 60,
+    "course": "Dessert",
+    "regions": [
+      "Pan-Indian"
+    ],
+    "occasions": [
+      "Christmas"
+    ],
+    "diet": "e",
+    "ingredients": [
+      "flour",
+      "egg",
+      "dried fruit",
+      "butter",
+      "rum"
+    ]
+  },
+  {
+    "name": "Rose Cookies",
+    "cost": 35,
+    "course": "Dessert",
+    "regions": [
+      "South Indian"
+    ],
+    "occasions": [
+      "Christmas"
+    ],
+    "diet": "e",
+    "ingredients": [
+      "rice flour",
+      "egg",
+      "coconut milk",
+      "sugar"
+    ]
+  },
+  {
+    "name": "Kulkuls",
+    "cost": 25,
+    "course": "Dessert",
+    "regions": [
+      "Pan-Indian"
+    ],
+    "occasions": [
+      "Christmas"
+    ],
+    "diet": "v",
+    "ingredients": [
+      "maida",
+      "coconut milk",
+      "sugar"
+    ]
+  },
+  {
+    "name": "Vanilla Ice Cream",
+    "cost": 45,
+    "course": "Dessert",
+    "regions": [
+      "Pan-Indian"
+    ],
+    "occasions": [
+      "Birthday",
+      "Housewarming"
+    ],
+    "diet": "v",
+    "ingredients": [
+      "milk",
+      "cream",
+      "sugar"
+    ]
+  },
+  {
+    "name": "Mint Chutney",
+    "cost": 10,
+    "regions": [
+      "Pan-Indian"
+    ],
+    "occasions": [
+      "All"
+    ],
+    "diet": "v",
+    "course": "Accompaniment",
+    "ingredients": [
+      "mint",
+      "coriander",
+      "green chilli",
+      "lemon"
+    ]
+  },
+  {
+    "name": "Green Salad",
+    "cost": 20,
+    "regions": [
+      "Pan-Indian"
+    ],
+    "occasions": [
+      "All"
+    ],
+    "diet": "v",
+    "course": "Accompaniment",
+    "ingredients": [
+      "cucumber",
+      "tomato",
+      "onion",
+      "lemon"
+    ]
+  },
+  {
+    "name": "Laccha Pyaaz",
+    "cost": 15,
+    "regions": [
+      "Pan-Indian"
+    ],
+    "occasions": [
+      "All"
+    ],
+    "diet": "v",
+    "course": "Accompaniment",
+    "ingredients": [
+      "onion",
+      "lemon",
+      "chaat masala"
+    ]
+  }
+]
